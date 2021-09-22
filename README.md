@@ -1,7 +1,7 @@
 # SimpleNetworkGraph
 A notebook for generating a simple Python network graph.
 
-You can check the code found in `Pandas Tutorial.ipynb` or clone this repository for your own use: `git clone https://github.com/importJL/SimpleNetworkGraph/`
+You can check the code found in `NetworkX.ipynb` or clone this repository for your own use: `git clone https://github.com/importJL/SimpleNetworkGraph/`
 
 Feel free send pull request for further add-ons or suggestions.
 
